@@ -11,6 +11,7 @@ Azure AutoTagger is a lightweight, low-cost serverless solution that can easily 
 * [**https://github.com/softchoice-corp/AzureAutoTagger**](https://github.com/softchoice-corp/AzureAutoTagger): Contains the ARM template code to deploy the infrastructure and role assignments to the subscription
 
 * [**https://github.com/softchoice-corp/AzureAutoTaggerFunction**](https://github.com/softchoice-corp/AzureAutoTaggerFunction): Contains the Azure Function PowerShell code
+- Updated Runtime function to v4 12/5/2022 to a supported runtime, PowerShell Function also needs 7.2 for supportability
 
 ![tagging](/images/tagging-spedup.gif)
 
